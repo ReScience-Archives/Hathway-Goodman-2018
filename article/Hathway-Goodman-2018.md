@@ -11,21 +11,21 @@ Address:
 Contact:
   - p.hathway16@imperial.ac.uk
 Editor:
-  - Name Surname
+  - Nicolas P. Rougier
 Reviewer:
-  - Name Surname
-  - Name Surname
+  - Damien Drix
+  - Julien Vitay
 Publication:
-  received:  Sep,  1, 2015
-  accepted:  Sep, 1, 2015
-  published: Sep, 1, 2015
-  volume:    "**1**"
+  received:  May, 29, 2018
+  accepted:  Jul, 5, 2018
+  published: Aug, 3, 2018
+  volume:    "**4**"
   issue:     "**1**"
-  date:      Sep 2015
-  number: 1
+  date:      Aug 2018
+  number:    6
 Repository:
-  article:   "http://github.com/rescience/rescience-submission/article"
-  code:      "http://github.com/rescience/rescience-submission/code"
+  article:   "https://github.com/ReScience-Archives/Hathway-Goodman-2018/tree/master/article"
+  code:      "https://github.com/ReScience-Archives/Hathway-Goodman-2018/tree/master/code"
   data:      
   notebook:  
 Reproduction:
